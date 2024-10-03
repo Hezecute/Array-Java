@@ -1,0 +1,33 @@
+
+package myPackage;
+
+
+
+public class Array {
+    
+   public static void main (String[]args){
+       
+       
+        String Emails [] = {"HezekiahBernasor65@gmail.com","Kimjinwoo184@gmail.com","hbernasor09@gmail.com","HezekiahBernasor0909@gmail.com","Bogart@gmail.com"};
+        
+        
+        String Username [] = {"Hezecute","Bogart","Killer","Mashrum","Beess"};
+        
+        
+        String Password [] = {"Bogart123","Hellno","Yeahboiy","Sprikles","Meensss"};
+        
+        System.out.println("Your Index " + 0);
+                
+        System.out.println("Your Email : " + Emails[0]);
+        
+        System.out.println("Your Username : " + Username[0]);
+        
+        System.out.println("Your Password : " + Password[0]);
+       
+       
+    
+       
+    
+    }
+    
+}
